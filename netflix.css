@@ -46,7 +46,7 @@
   
   /* banner */
   .banner {
-    background-image: url('/banner.jpg');
+    background-image: url('banner.jpg');
     background-size: cover;
     background-position: center center;
     color: white;
